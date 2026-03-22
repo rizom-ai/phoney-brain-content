@@ -1,0 +1,31 @@
+---
+fields:
+  - id: name
+    name: name
+    type: Input
+  - id: description
+    name: description
+    type: Input
+  - id: avatar
+    name: avatar
+    type: Input
+  - id: website
+    name: website
+    type: Input
+  - id: email
+    name: email
+    type: Input
+  - id: socialLinks
+    name: socialLinks
+    type: Multi
+  - id: tagline
+    name: tagline
+    type: Input
+  - id: intro
+    name: intro
+    type: Input
+  - id: story
+    name: story
+    type: Input
+filesPaths: anchor-profile
+---
