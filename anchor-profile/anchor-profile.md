@@ -1,33 +1,31 @@
 ---
-name: Your Name Here
+name: Sam Shao
 description: >-
-  Professional cat herder and amateur philosopher. Replace this
-  with something that actually describes you.
-tagline: Building things that matter (or at least that's the plan)
+  Entrepreneur running The Fourth, a branding and business development agency.
+  Reads too much, watches everything, has opinions about all of it.
+tagline: Thirst Trap for the Serious Mind
 intro: >-
-  This is the part where you explain what you do in a way that
-  makes people want to keep reading. No pressure.
+  Branding strategist by trade, cultural omnivore by nature. Building The Fourth
+  while writing about the books, movies, art, and politics that won't leave me alone.
 expertise:
-  - The thing you're best at
-  - The thing you're pretty good at
-  - The thing you're learning
+  - Branding & Identity
+  - Business Development
+  - Cultural Commentary
 currentFocus: >-
-  Whatever's keeping you up at night — in a good way. What you're
-  building, writing, or figuring out right now.
+  Growing The Fourth while building a personal writing practice around the
+  things that actually matter — art, politics, and why people believe what they believe.
 availability: >-
-  Open to interesting conversations, collaborations, and
-  opportunities that don't start with "quick call."
-website: https://example.com
-email: hello@example.com
+  Open to branding projects, creative collaborations, and arguments about films.
+website: https://mylittlephoney.com
+email: phoney@rizom.ai
 socialLinks:
-  - platform: github
-    url: https://github.com/example
-    label: GitHub
-  - platform: linkedin
-    url: https://www.linkedin.com/in/example
-    label: LinkedIn
+  - platform: website
+    url: https://discord.gg/mylittlephoney
+    label: Join the Discord
+  - platform: instagram
+    url: https://instagram.com/mylittlephoney
+    label: Follow on Instagram
 ---
+Sam Shao runs The Fourth, a branding and BD agency that helps companies figure out who they are and who they're talking to. When she's not doing that, she's here — writing about books that rewired her brain, movies that didn't deserve their reviews, art that actually means something, and the political circus we all pretend to understand.
 
-This is where your story goes. How you got here, what drives you, why anyone should care. Write it like you're talking to someone at a dinner party, not a recruiter.
-
-(Delete this and write your own. Rover won't judge.)
+The pink is intentional. The opinions are not negotiable.
