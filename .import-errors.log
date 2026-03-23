@@ -1,0 +1,11 @@
+2026-03-21T07:20:12.516Z - [RECOVERED] anchor-profile/anchor-profile.md
+    "received": "anchor-profile:anchor-profile",
+    "code": "invalid_literal",
+    "expected": "anchor-profile",
+    "path": [
+      "id"
+    ],
+    "message": "Invalid literal value, expected \"anchor-profile\""
+  }
+]
+2026-03-21T07:20:12.516Z - [RECOVERED] anchor-profile/anchor-profile.md
