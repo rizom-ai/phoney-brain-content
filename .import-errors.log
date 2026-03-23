@@ -1,11 +1,20 @@
-2026-03-21T07:20:12.516Z - [RECOVERED] anchor-profile/anchor-profile.md
-    "received": "anchor-profile:anchor-profile",
-    "code": "invalid_literal",
-    "expected": "anchor-profile",
+2026-03-17T18:04:42.251Z - [RECOVERED] post/my-first-post.md
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
     "path": [
-      "id"
+      "excerpt"
     ],
-    "message": "Invalid literal value, expected \"anchor-profile\""
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "author"
+    ],
+    "message": "Required"
   }
 ]
-2026-03-21T07:20:12.516Z - [RECOVERED] anchor-profile/anchor-profile.md
+2026-03-17T18:04:42.251Z - [RECOVERED] post/my-first-post.md

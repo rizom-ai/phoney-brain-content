@@ -1,34 +1,19 @@
 ---
-title: Hello World
+title: My First Presentation
 slug: my-first-deck
-description: A quick tour of what decks look like
-status: published
-publishedAt: '2024-01-01T00:00:00.000Z'
+description: A starting point for your presentations
+status: draft
 ---
-# Hello World
-
-Your first presentation.
+# My First Presentation
 
 ---
 
-## How it works
+## The Problem
 
-Each `---` on its own line creates a new slide. Write in markdown, get a presentation.
-
----
-
-## What you can put in slides
-
-- Text and headings
-- Bullet points
-- Code blocks
-- Images
-- Whatever markdown supports
+Describe the problem you're addressing.
 
 ---
 
-## Make your own
+## The Solution
 
-Ask Rover to create a deck, or add a `.md` file to `brain-data/deck/` with slide separators.
-
-Delete this one whenever you're ready.
+Present your approach.

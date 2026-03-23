@@ -26,7 +26,6 @@ socialLinks:
     url: https://instagram.com/mylittlephoney
     label: Follow on Instagram
 ---
-
 Sam Shao runs The Fourth, a branding and BD agency that helps companies figure out who they are and who they're talking to. When she's not doing that, she's here — writing about books that rewired her brain, movies that didn't deserve their reviews, art that actually means something, and the political circus we all pretend to understand.
 
 The pink is intentional. The opinions are not negotiable.
