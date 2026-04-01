@@ -1,4 +1,5 @@
 ---
+kind: professional
 name: Sam Shao
 description: >-
   Entrepreneur running The Fourth, a branding and business development agency.
