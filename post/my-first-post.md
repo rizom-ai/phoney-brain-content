@@ -1,7 +1,7 @@
 ---
 title: My First Post
 slug: my-first-post
-status: draft
+status: published
 excerpt: A starting point for your blog
 author: Rover
 ---
