@@ -1,19 +1,17 @@
 ---
 name: Develop and Optimize Content Ecosystems
 description: >-
-  Design, implement, and refine workflows for publishing and distributing
-  digital content across multiple platforms to maximize reach and engagement.
+  Build, streamline, and manage workflows for creating, publishing, and
+  distributing content across multiple platforms to maximize impact.
 tags:
-  - content publishing
+  - content creation
+  - publishing
   - workflow
-  - distribution
-  - platforms
+  - digital platforms
   - optimization
 examples:
-  - How can I streamline my blog publishing process across platforms?
-  - What tools should I use to manage content for a multi-channel brand?
-  - >-
-    Help me set up an efficient workflow for updating and maintaining my website
-    and social media.
+  - Set up an efficient content workflow for my blog and newsletter.
+  - Which tools should I use to publish content on multiple platforms?
+  - How can I improve my content distribution strategy?
 ---
 
