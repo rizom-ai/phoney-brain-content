@@ -37,14 +37,5 @@ fields:
   - id: story
     name: story
     type: Input
-  - id: expertise
-    name: expertise
-    type: Multi
-  - id: currentFocus
-    name: currentFocus
-    type: Input
-  - id: availability
-    name: availability
-    type: Input
 filesPaths: anchor-profile
 ---
