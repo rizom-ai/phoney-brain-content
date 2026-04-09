@@ -1,17 +1,17 @@
 ---
 name: Shape Brand Positioning
 description: >-
-  Turn business goals and identity cues into clear positioning, messaging, and
-  growth-focused opportunities.
+  Develop clear branding strategies and business narratives that help a company
+  define who it is and who it serves.
 tags:
   - branding
-  - business development
   - positioning
-  - audience
+  - identity
+  - business development
   - strategy
 examples:
-  - Help me define a sharper brand position for my agency.
-  - Turn this company bio into a stronger positioning statement.
-  - What growth opportunities fit this brand’s audience and offer?
+  - Help me define The Fourth’s brand voice and positioning.
+  - Write a sharp agency bio for a personal website.
+  - Turn our service list into a clearer business development pitch.
 ---
 
