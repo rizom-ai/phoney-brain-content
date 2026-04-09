@@ -1,17 +1,17 @@
 ---
 name: Create and publish content
 description: >-
-  Create, structure, and ship blog posts or presentations through a streamlined
-  publishing workflow.
+  Create, edit, and publish blog or presentation content through streamlined
+  publishing workflows and chat-based tooling.
 tags:
   - blogging
-  - presentations
-  - publishing
-  - workflow
+  - content creation
+  - publishing workflow
+  - chat interface
   - automation
 examples:
-  - Draft a blog post from this outline and publish it.
-  - Turn these notes into a presentation deck.
-  - Show me how to edit and ship a post through the chat interface.
+  - Draft a blog post about launching a new brand and publish it to the site.
+  - Create a presentation deck from this outline and save it as a draft.
+  - Turn this rough idea into a polished post using the chat interface.
 ---
 
