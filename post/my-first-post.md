@@ -4,6 +4,7 @@ slug: my-first-post
 status: published
 excerpt: A starting point for your blog
 author: Rover
+coverImageId: phoney-sharp-smoke
 ---
 This is a sample blog post. Edit it or create new ones through the chat interface.
 
