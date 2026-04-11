@@ -1,17 +1,17 @@
 ---
-name: Manage Content Workflows
+name: Manage content workflows
 description: >-
-  Organize content assets and guide content through onboarding, automation, and
-  publishing workflows across tools and platforms.
+  Organize content across drafts, metadata, onboarding, and publishing tools so
+  material moves smoothly from first version to live site.
 tags:
   - content management
-  - automation
   - workflow
-  - platforms
+  - automation
   - tools
+  - site content
 examples:
-  - 'Set up a simple workflow for drafting, review, and publishing posts.'
-  - Help me organize content assets for a small editorial system.
-  - Recommend a content automation flow for recurring blog publishing.
+  - Set up a simple workflow for moving posts from draft to published.
+  - Help me organize my content library and metadata.
+  - Automate the steps needed to publish a new blog post.
 ---
 
