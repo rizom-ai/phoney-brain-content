@@ -1,17 +1,17 @@
 ---
 name: Shape Brand Identity
 description: >-
-  Create clear, differentiated brand identities that express what a business
-  stands for and how it should be perceived.
+  Create clear positioning, messaging, and business narratives that help a
+  company define who it is and why it matters.
 tags:
   - branding
-  - identity
   - positioning
   - messaging
-  - visual direction
+  - identity
+  - business development
 examples:
-  - Help me define a brand identity for my startup.
-  - Create a positioning statement and brand voice for this company.
-  - What should this brand look and sound like to stand out?
+  - Help me define a sharp brand position for my agency.
+  - Write a brand story for a premium-but-approachable product.
+  - What should we say about who we are and what makes us different?
 ---
 
