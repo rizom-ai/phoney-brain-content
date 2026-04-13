@@ -1,1 +1,1 @@
-	Yeehaa is an idiot
+Yeehaa is an idiot
