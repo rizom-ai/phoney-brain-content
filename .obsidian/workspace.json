@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Drama.md",
+                "file": "post/The Drama.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Drama.md",
+                "file": "post/The Drama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Drama.md",
+                "file": "post/The Drama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Drama.md",
+                "file": "post/The Drama.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,8 +211,10 @@
   },
   "active": "261b5ed7e68b4841",
   "lastOpenFiles": [
-    "README.md",
     "The Drama.md",
+    "README.md",
+    "post/The Drama.md",
+    "post/my-first-post.md",
     "deck/my-first-deck.md",
     "skill/publish-personal-editorial-content.md"
   ]
