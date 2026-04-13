@@ -4,10 +4,10 @@ keywords:
   - confession
   - shame
   - exposure
-  - truth
-  - self-justification
-  - absolution
+  - truth-telling
+  - disclosure
   - vulnerability
-  - moral disclosure
+  - social pressure
+  - self-justification
 ---
-A major focus of the post is the confession game, which turns private shame into a public test of character. Once one person admits to something ugly, everyone else is pushed into the same uneasy exercise of disclosure. The scene becomes a laboratory for moral self-justification, exposing how people attempt to control the meaning of their worst actions. The post emphasizes that confession here is not cleansing or redemptive in any simple sense. Instead, it produces exposure, discomfort, and the possibility that the truth will not be survivable in the way people hope. This makes confession less a ritual of absolution than a pressure point where self-image starts to crack.
+A central focus is the social ritual of confession: private shame turned public, where one admission pressures everyone else into disclosure. What looks like honesty quickly becomes a test of control, as each person tries to manage how their wrongdoing will be received. The scene is less about catharsis than exposure, comparison, and self-justification. Confession here is not a simple route to redemption or absolution; it is a pressure point that strips away moral self-image and leaves behind the awkward, vulnerable fact of being seen.
