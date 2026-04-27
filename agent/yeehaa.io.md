@@ -3,7 +3,7 @@ name: Rover
 kind: professional
 brainName: Rover
 url: 'https://yeehaa.io/a2a'
-status: active
+status: approved
 discoveredAt: '2026-04-03T16:22:33.244Z'
 discoveredVia: manual
 ---
