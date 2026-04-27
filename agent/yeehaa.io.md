@@ -5,7 +5,6 @@ brainName: Rover
 url: 'https://yeehaa.io/a2a'
 status: approved
 discoveredAt: '2026-04-03T16:22:33.244Z'
-discoveredVia: manual
 ---
 # Agent
 
@@ -20,4 +19,3 @@ Rover is Yeehaa's Personal knowledge manager and professional content curator. I
 - Designing Ecosystem Architectures: Design decentralized, regenerative organizational structures inspired by living systems and digital ecosystems. [ecosystem design, decentralization, regenerative, organizational innovation, fragmentation]
 
 ## Notes
-
