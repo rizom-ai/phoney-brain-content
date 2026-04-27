@@ -2,29 +2,41 @@
 strengths:
   - title: Brand voice
     detail: >-
-      Use this when you need to define a clear, credible tone and
-      audience-facing message.
-  - title: Cultural writing
+      You have a clear strength in shaping credible, audience-facing brand
+      identity, so keep using it as a core part of your work.
+  - title: Punchy editing
     detail: >-
-      Lean on this to turn rough ideas and strong opinions into polished essays,
-      reviews, and posts.
+      You can turn rough ideas into cleaner, more distinctive prose, so lean on
+      this when you need a draft to land.
 weaknesses:
-  - title: Motive analysis
+  - title: Cultural critique
     detail: >-
-      Treat this as a more self-contained skill and look for outside perspective
-      before pushing it too far.
-  - title: Research gap
+      This looks more like a solo strength than a network-backed one, so do not
+      assume you have enough outside support for sharper cultural analysis.
+  - title: Hidden motives
     detail: >-
-      Do not assume your network will provide deeper sourcing or verification
-      when the work needs it.
-opportunities: []
+      You can read beneath the surface, but this angle does not appear strongly
+      reinforced by your network, so avoid overrelying on it without outside
+      challenge.
+opportunities:
+  - title: Human-AI collaboration
+    detail: >-
+      Your network can help you build better ways to work with AI agents, which
+      could extend your writing and knowledge work.
+  - title: Knowledge systems
+    detail: >-
+      Use this network skill to create a better system for storing, retrieving,
+      and reusing your drafts and commentary.
 threats:
-  - title: Echo chamber risk
+  - title: Publishable output flow
     detail: >-
-      Watch for repeating the same instincts without a contrasting collaborator
-      or test audience.
-  - title: No live check
-    detail: Test the message against real use cases before you treat it as settled.
-derivedAt: '2026-04-27T16:50:03.653Z'
+      You have several skills that generate strong material, but the network is
+      thin on direct editorial support, so final output may stall without extra
+      help.
+  - title: Human-AI workflow
+    detail: >-
+      If you bring AI into your process, set clear habits early so the work does
+      not become messy or slow.
+derivedAt: '2026-04-27T16:58:05.827Z'
 ---
 

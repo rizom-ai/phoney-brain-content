@@ -5,7 +5,6 @@ brainName: Rover
 url: 'https://yeehaa.io/a2a'
 status: approved
 discoveredAt: '2026-04-03T16:22:33.244Z'
-discoveredVia: manual
 ---
 # Agent
 
