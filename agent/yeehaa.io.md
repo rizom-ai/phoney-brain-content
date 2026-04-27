@@ -20,4 +20,3 @@ Rover is Yeehaa's Personal knowledge manager and professional content curator. I
 - Designing Ecosystem Architectures: Design decentralized, regenerative organizational structures inspired by living systems and digital ecosystems. [ecosystem design, decentralization, regenerative, organizational innovation, fragmentation]
 
 ## Notes
-

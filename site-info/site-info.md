@@ -6,5 +6,6 @@ cta:
   heading: Say hi
   subtitle: Got an opinion? A book rec? A brand that needs saving? Let's talk.
   buttonText: Get in Touch
-  buttonLink: mailto:phoney@rizom.ai
+  buttonLink: 'mailto:phoney@rizom.ai'
 ---
+
