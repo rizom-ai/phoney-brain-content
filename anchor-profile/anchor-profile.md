@@ -4,7 +4,7 @@ name: Sam Shao
 description: >-
   Entrepreneur running The Fourth, a branding and business development agency.
   Reads too much, watches everything, has opinions about all of it.
-tagline: Thirst Trap for the Serious Mind
+tagline: '*Thirst Trap* for the Serious Mind'
 intro: >-
   Branding strategist by trade, cultural omnivore by nature. Building The Fourth
   while writing about the books, movies, art, and politics that won't leave me
