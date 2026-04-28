@@ -1,36 +1,36 @@
 ---
 strengths:
-  - title: Polished editorial writing
+  - title: Distinct voice
     detail: >-
-      You can reliably turn drafts into clean, publish-ready posts, reviews, and
-      presentation copy.
-  - title: Brand voice
+      You already have a strong edge for sharp, polished editorial writing, so
+      keep this central in your public-facing work.
+  - title: Publish-ready structure
     detail: >-
-      Use this to make your personal site and agency messaging sound distinctive
-      and intentional.
+      You can turn rough ideas into clear posts and decks, so use this when you
+      need your thinking to land quickly and cleanly.
 weaknesses:
-  - title: Self-exposing analysis
+  - title: Self-exposure
     detail: >-
-      This is not yet a natural strength, so essays about self-deception or
-      performative innocence will take extra effort.
-  - title: Sharp cultural writing
+      This is a thinner area for you, so do not assume the same ease you have
+      with voice or critique.
+  - title: Research workflow
     detail: >-
-      You have related critique skills, but sustaining a crisp, memorable
-      cultural argument is still a thinner area.
+      You do not yet have a strong base for repeatable research capture or
+      knowledge structure, so avoid overestimating your current setup here.
 opportunities:
-  - title: Systems framing
+  - title: AI-assisted drafting
     detail: >-
-      Your network can help you add a more structural, agency-focused angle to
-      branding or editorial work.
-  - title: AI-assisted workflow
+      Your network can help you use AI more deliberately for drafting, editing,
+      and organizing your public output.
+  - title: System-aware structure
     detail: >-
-      Use this network skill to make drafting, editing, and idea capture more
-      repeatable.
+      Your network can also help you think beyond one-off pieces and make your
+      site or messaging feel more coherent.
 threats:
-  - title: Self-deception essays
+  - title: Video gap
     detail: >-
-      Do not overpromise on work that depends on exposing hidden motives or
-      moral performance.
-derivedAt: '2026-04-28T16:56:24.830Z'
+      Video is not a natural extension of this profile, so do not rely on it
+      unless you bring in outside help.
+derivedAt: '2026-04-28T16:57:51.644Z'
 ---
 
