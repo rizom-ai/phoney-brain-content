@@ -1,52 +1,36 @@
 ---
 strengths:
-  - title: Clarity and edge
+  - title: Polished editorial writing
     detail: >-
-      Use this as a reliable core skill when you need drafts to read cleaner,
-      hit harder, and still sound like the writer.
+      You can reliably turn drafts into clean, publish-ready posts, reviews, and
+      presentation copy.
   - title: Brand voice
     detail: >-
-      Lean on this when a message needs to feel credible, audience-aware, and
-      distinct.
-  - title: Cultural criticism
-    detail: >-
-      Use this when you need sharp interpretation that turns films, art, or
-      public narratives into readable commentary.
+      Use this to make your personal site and agency messaging sound distinctive
+      and intentional.
 weaknesses:
-  - title: Knowledge systems gap
+  - title: Self-exposing analysis
     detail: >-
-      You do not show direct strength in organizing shared knowledge, so do not
-      assume you can build that structure alone.
-  - title: Human-AI collaboration gap
+      This is not yet a natural strength, so essays about self-deception or
+      performative innocence will take extra effort.
+  - title: Sharp cultural writing
     detail: >-
-      This is not yet one of your own skills, so treat it as an area where you
-      need support rather than a strength.
+      You have related critique skills, but sustaining a crisp, memorable
+      cultural argument is still a thinner area.
 opportunities:
-  - title: Learning design
+  - title: Systems framing
     detail: >-
-      Use this network skill if you want to move beyond critique and test ideas
-      about work, learning, and growth.
-  - title: Human-AI collaboration
+      Your network can help you add a more structural, agency-focused angle to
+      branding or editorial work.
+  - title: AI-assisted workflow
     detail: >-
-      Learn from this network capability before trying to extend your own voice
-      into AI-assisted workflows.
-  - title: Knowledge systems
-    detail: >-
-      Use this network skill to make your ideas easier to organize, reuse, and
-      share over time.
+      Use this network skill to make drafting, editing, and idea capture more
+      repeatable.
 threats:
-  - title: Systems gap
+  - title: Self-deception essays
     detail: >-
-      If you keep publishing without a way to store and reuse the work, your
-      output may not compound.
-  - title: AI workflow risk
-    detail: >-
-      Avoid depending on AI-supported processes that rely on capability you do
-      not yet own or can’t test well.
-  - title: Learning redesign risk
-    detail: >-
-      If the work shifts toward new learning models, bring in help before you
-      commit to building it alone.
-derivedAt: '2026-04-27T17:00:35.130Z'
+      Do not overpromise on work that depends on exposing hidden motives or
+      moral performance.
+derivedAt: '2026-04-28T16:56:24.830Z'
 ---
 
