@@ -1,42 +1,52 @@
 ---
 strengths:
+  - title: Clarity and edge
+    detail: >-
+      Use this as a reliable core skill when you need drafts to read cleaner,
+      hit harder, and still sound like the writer.
   - title: Brand voice
     detail: >-
-      You have a clear strength in shaping credible, audience-facing brand
-      identity, so keep using it as a core part of your work.
-  - title: Punchy editing
+      Lean on this when a message needs to feel credible, audience-aware, and
+      distinct.
+  - title: Cultural criticism
     detail: >-
-      You can turn rough ideas into cleaner, more distinctive prose, so lean on
-      this when you need a draft to land.
+      Use this when you need sharp interpretation that turns films, art, or
+      public narratives into readable commentary.
 weaknesses:
-  - title: Cultural critique
+  - title: Knowledge systems gap
     detail: >-
-      This looks more like a solo strength than a network-backed one, so do not
-      assume you have enough outside support for sharper cultural analysis.
-  - title: Hidden motives
+      You do not show direct strength in organizing shared knowledge, so do not
+      assume you can build that structure alone.
+  - title: Human-AI collaboration gap
     detail: >-
-      You can read beneath the surface, but this angle does not appear strongly
-      reinforced by your network, so avoid overrelying on it without outside
-      challenge.
+      This is not yet one of your own skills, so treat it as an area where you
+      need support rather than a strength.
 opportunities:
+  - title: Learning design
+    detail: >-
+      Use this network skill if you want to move beyond critique and test ideas
+      about work, learning, and growth.
   - title: Human-AI collaboration
     detail: >-
-      Your network can help you build better ways to work with AI agents, which
-      could extend your writing and knowledge work.
+      Learn from this network capability before trying to extend your own voice
+      into AI-assisted workflows.
   - title: Knowledge systems
     detail: >-
-      Use this network skill to create a better system for storing, retrieving,
-      and reusing your drafts and commentary.
+      Use this network skill to make your ideas easier to organize, reuse, and
+      share over time.
 threats:
-  - title: Publishable output flow
+  - title: Systems gap
     detail: >-
-      You have several skills that generate strong material, but the network is
-      thin on direct editorial support, so final output may stall without extra
-      help.
-  - title: Human-AI workflow
+      If you keep publishing without a way to store and reuse the work, your
+      output may not compound.
+  - title: AI workflow risk
     detail: >-
-      If you bring AI into your process, set clear habits early so the work does
-      not become messy or slow.
-derivedAt: '2026-04-27T16:58:05.827Z'
+      Avoid depending on AI-supported processes that rely on capability you do
+      not yet own or can’t test well.
+  - title: Learning redesign risk
+    detail: >-
+      If the work shifts toward new learning models, bring in help before you
+      commit to building it alone.
+derivedAt: '2026-04-27T17:00:35.130Z'
 ---
 
