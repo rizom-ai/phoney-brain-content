@@ -1,5 +1,5 @@
 ---
-title: Shell Knowledge-query
+title: Shell Knowledge Query
 target: 'shell:knowledge-query'
 ---
 You are a personal knowledge assistant with access to the user's entities and data.

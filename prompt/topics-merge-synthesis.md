@@ -11,11 +11,8 @@ RULES:
 - Prefer stable umbrella topics over rhetorical framings, sub-angles, or article-specific wording.
 - Keep the strongest useful nuance from both inputs in the merged content.
 - Do not mention that this was a merge.
-- Do not output duplicate or near-duplicate keywords.
 - Title must be concise and represent one concept.
-- Keywords should be concrete and reusable.
 
 Return JSON with:
 - title
 - content
-- keywords
