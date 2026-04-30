@@ -1,45 +1,33 @@
 ---
 strengths:
-  - title: Editorial voice
+  - title: Publication-ready drafting
     detail: >-
-      Use this as your core strength for shaping public-facing writing with a
-      clear angle and memorable tone.
-  - title: Confessional writing
+      You can turn drafts into clear pieces that are ready for web or social
+      publication.
+  - title: Power analysis
     detail: >-
-      Lean on this when you want personal material to become honest, reflective
-      cultural commentary.
-  - title: AI power critique
-    detail: >-
-      Keep using this as a stable lens for essays about platforms, dependence,
-      autonomy, and control.
+      You can reason clearly about institutions, dependence, and self-deception,
+      which helps you make sharper arguments about power and autonomy.
 weaknesses:
-  - title: Cultural critique range
+  - title: Cultural critique
     detail: >-
-      Build this deliberately, because your current strengths are stronger in
-      introspection and institutional critique than in direct analysis of books,
-      films, and public discourse.
+      You should not assume every cultural reaction will become a clean critique
+      on its own; this skill likely needs more deliberate development or
+      support.
 opportunities:
-  - title: Human-AI collaboration
+  - title: Human-AI workflows
     detail: >-
-      Use your network’s collaboration frameworks when your writing shifts into
-      AI use, workflow, or how you work with agents.
-  - title: Knowledge infrastructure
+      Use your network’s collaboration expertise to turn your AI thinking into
+      practical workflows and clearer operating habits.
+  - title: Knowledge systems
     detail: >-
-      Draw on this if you want your knowledge work to become more structured,
-      reusable, and shareable.
-  - title: Ecosystem architectures
-    detail: >-
-      Treat this as a useful partner when you move from essays toward broader
-      systems or institutional thinking.
+      Borrow from your network to make your publishing and knowledge work more
+      structured, reusable, and easier to share.
 threats:
-  - title: Narrow critique range
+  - title: Video gap
     detail: >-
-      Watch for work that stays sharp in tone but never fully becomes cultural
-      analysis.
-  - title: Weak network backup
-    detail: >-
-      Do not rely on this network strength as a dependable fallback unless you
-      test it in real projects.
-derivedAt: '2026-04-30T14:22:31.642Z'
+      If your ideas need to move beyond writing, video could become a bottleneck
+      unless you plan for it separately.
+derivedAt: '2026-04-30T15:24:22.547Z'
 ---
 
