@@ -28,14 +28,5 @@ fields:
   - id: socialLinks
     name: socialLinks
     type: Multi
-  - id: tagline
-    name: tagline
-    type: Input
-  - id: intro
-    name: intro
-    type: Input
-  - id: story
-    name: story
-    type: Input
 filesPaths: anchor-profile
 ---
